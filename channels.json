@@ -2,8 +2,8 @@
   {
     "id": "123tv.de@SD",
     "name": "1-2-3 TV (270p)",
-    "description": "Shopping"
+    "description": "Shopping",
     "thumbnail_url": "https://i.imgur.com/slSUDNX.png",
-    "stream_url": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+    "stream_url": "https://123tv-mx1.flex-cdn.net/index.m3u8"
   }
 ]
