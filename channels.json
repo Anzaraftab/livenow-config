@@ -62,5 +62,69 @@
     "logo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Classic_movie_icon.png",
     "stream_url": "https://classiccinemachannel-classiccinema-1-us.samsung.amagi.tv/playlist.m3u8",
     "is_active": true
+  },
+  {
+    "id": "abc_news",
+    "name": "ABC News Live",
+    "description": "24/7 streaming news channel from ABC News.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ABC_News_logo_2021.svg/512px-ABC_News_logo_2021.svg.png",
+    "stream_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "category": "News"
+  },
+  {
+    "id": "sky_news",
+    "name": "Sky News",
+    "description": "Leading UK and international news network.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sky_News_logo_2017.svg/512px-Sky_News_logo_2017.svg.png",
+    "stream_url": "https://skynews-live.akamaized.net/hls/live/2002839/skynews/master.m3u8",
+    "category": "News"
+  },
+  {
+    "id": "filmzie",
+    "name": "Filmzie Movies",
+    "description": "Watch high-quality independent movies and award-winning films.",
+    "thumbnail_url": "https://filmzie.com/images/filmzie_logo_white.png",
+    "stream_url": "https://filmzie-rakuten.amagi.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+  {
+    "id": "rakuten_action",
+    "name": "Rakuten Action",
+    "description": "The best action-packed movies and thrillers.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Rakuten_TV_logo.svg/512px-Rakuten_TV_logo.svg.png",
+    "stream_url": "https://rakuten-actionmovies-1-gb.samsung.wurl.tv/playlist.m3u8",
+    "category": "Movies"
+  },
+  {
+    "id": "redbull_tv",
+    "name": "Red Bull TV",
+    "description": "Live sports, music, and lifestyle entertainment.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Red_Bull_TV_logo.svg/512px-Red_Bull_TV_logo.svg.png",
+    "stream_url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": "fubo_sports",
+    "name": "Fubo Sports",
+    "description": "Live sports, news, and analysis from FuboTV.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FuboTV_logo.svg/512px-FuboTV_logo.svg.png",
+    "stream_url": "https://fubosports-fubotv.amagi.tv/playlist.m3u8",
+    "category": "Sports"
+  },
+  {
+    "id": "vevo_pop",
+    "name": "Vevo Pop",
+    "description": "24/7 non-stop pop music videos.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Vevo_logo.svg/512px-Vevo_logo.svg.png",
+    "stream_url": "https://vevo-pop-1-us.samsung.wurl.tv/playlist.m3u8",
+    "category": "Music"
+  },
+  {
+    "id": "nasa_tv",
+    "name": "NASA TV",
+    "description": "Live coverage of launches and space exploration news.",
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/512px-NASA_logo.svg.png",
+    "stream_url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
+    "category": "Science"
   }
 ]
